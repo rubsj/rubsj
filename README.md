@@ -1,16 +1,16 @@
-# Hi, I'm Ruby Jha 👋
+# Ruby Jha
 
 **Engineering Manager · Applied AI · Cloud**
 
-I've spent 20+ years leading engineering teams at State Street, Centene, and EY. The products I've built handle real money, real patient data, and real regulatory scrutiny. If something breaks, someone's claim doesn't get processed or money moves to the wrong place.
+I've spent 20+ years leading engineering teams at State Street, Centene, and EY. Teams up to 12 engineers across the US, India, and Poland. The products I've built serve 40+ enterprise customers, drove $250K/mo in cost savings, and handle real regulatory scrutiny where a bad deployment means financial loss.
 
-Now I'm bringing that same discipline to AI. I'm building **9 production-grade AI systems** that cover RAG pipelines, embedding fine-tuning, and multi-agent orchestration. Every project has evaluation frameworks, architecture decision records, and metrics I'd actually trust in a code review.
+Now I'm bringing that same discipline to AI. I'm building a series of production-grade AI systems that cover RAG pipelines, embedding fine-tuning, and multi-agent orchestration. Every project has evaluation frameworks, architecture decision records, and metrics I'd actually trust in a code review. The goal is to lead AI engineering teams with the same rigor I bring to building the systems myself.
 
 🌐 [rubyjha.dev](https://rubyjha.dev) · 💼 [LinkedIn](https://linkedin.com/in/jharuby)
 
 ---
 
-## 🤖 AI/ML Portfolio: 9 Systems, Built End-to-End
+## 🤖 AI/ML Portfolio
 
 These aren't API wrappers. Each project solves a real engineering problem with measurable outcomes, reproducible from committed code.
 
@@ -31,14 +31,7 @@ These aren't API wrappers. Each project solves a real engineering problem with m
 |---|---------|-------------|-------|
 | P5 | [**ShopTalk Knowledge Agent**](https://github.com/rubsj/ai-shoptalk-knowledge-agent) | Production RAG with configurable chunking, hybrid retrieval, reranking, and LLM-as-Judge eval | Python · FAISS · LiteLLM · Instructor |
 
-### 🗓️ Upcoming
-
-| # | Project | What It Does | Stack |
-|---|---------|-------------|-------|
-| P6 | [**Digital Writing Clone**](https://github.com/rubsj/ai-digital-clone) | Multi-agent writing style clone with style analysis and quality evaluation | Python · CrewAI · OpenAI |
-| P7 | [**Feedback Intelligence**](https://github.com/rubsj/ai-feedback-intelligence) | Customer feedback analysis with sentiment, theme clustering, and roadmap alignment | Python · CrewAI · scikit-learn |
-| P8 | [**Jira AI Agent**](https://github.com/rubsj/ai-jira-agent) | Semantic search, duplicate detection, and automated sprint planning | Python · CrewAI · ChromaDB · FastAPI |
-| P9 | [**DevOps AI Assistant**](https://github.com/rubsj/ai-devops-assistant) | Multi-agent pipeline monitoring, log analysis, and root cause detection | Python · CrewAI · Kubernetes · Prometheus |
+**🗓️ Up Next:** Multi-agent systems with CrewAI (P6–P9) covering writing clones, feedback intelligence, Jira automation, and DevOps root-cause analysis. See the [full roadmap](https://github.com/rubsj/ai-portfolio).
 
 ---
 
@@ -57,7 +50,7 @@ These aren't API wrappers. Each project solves a real engineering problem with m
 
 **Leadership:** People Management · Hiring & Team Building · Performance & Promotions · Executive Communication · Technical Strategy
 
-**Technical:** Python · Java · TypeScript · OpenAI API · LangChain · CrewAI · FastAPI · ChromaDB · Azure · Docker · Kubernetes · React · Spring Boot · Astro
+**Technical:** Python · Java · TypeScript · OpenAI API · LangChain · CrewAI · FastAPI · ChromaDB · Azure · Docker · Kubernetes · React · Spring Boot
 
 ---
 
