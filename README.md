@@ -2,17 +2,17 @@
 
 **Engineering Manager · Applied AI · Cloud**
 
-I spent two decades leading engineering teams at State Street, Centene, and EY - building products that handle real money, real patient data, and real regulatory scrutiny. The kind of work where downtime means someone's claim doesn't get processed and a bad deployment means financial loss.
+I've spent 20+ years leading engineering teams at State Street, Centene, and EY. The products I've built handle real money, real patient data, and real regulatory scrutiny. If something breaks, someone's claim doesn't get processed or money moves to the wrong place.
 
-Now I'm applying that same engineering discipline to AI. I'm building **9 production-grade AI systems** covering RAG pipelines, embedding fine-tuning, and multi-agent orchestration — each with evaluation frameworks, architecture decision records, and metrics I'd trust in a code review.
+Now I'm bringing that same discipline to AI. I'm building **9 production-grade AI systems** that cover RAG pipelines, embedding fine-tuning, and multi-agent orchestration. Every project has evaluation frameworks, architecture decision records, and metrics I'd actually trust in a code review.
 
 🌐 [rubyjha.dev](https://rubyjha.dev) · 💼 [LinkedIn](https://linkedin.com/in/jharuby)
 
 ---
 
-## 🤖 AI/ML Portfolio — 9 Systems, Built End-to-End
+## 🤖 AI/ML Portfolio: 9 Systems, Built End-to-End
 
-Not API wrappers. Each project solves a real engineering problem with measurable outcomes, reproducible from committed code.
+These aren't API wrappers. Each project solves a real engineering problem with measurable outcomes, reproducible from committed code.
 
 👉 **[Full Portfolio Overview →](https://github.com/rubsj/ai-portfolio)**
 
@@ -21,7 +21,7 @@ Not API wrappers. Each project solves a real engineering problem with measurable
 | # | Project | What I Proved | Key Result | Stack |
 |---|---------|--------------|------------|-------|
 | P1 | [**Synthetic Data Pipeline**](https://github.com/rubsj/ai-synthetic-data-generator) | Self-correcting generation with 5-layer validation | 36 failures → 0 · 81.7% inter-rater agreement | Python · Pydantic · OpenAI · Instructor |
-| P2 | [**RAG Evaluation Framework**](https://github.com/rubsj/ai-rag-evaluation-framework) | 16-config grid search — reranking was the biggest lift | Recall@5 0.625 → 0.747 (+19.5%) · 384+ tests | Python · FAISS · LangChain · RAGAS · Cohere |
+| P2 | [**RAG Evaluation Framework**](https://github.com/rubsj/ai-rag-evaluation-framework) | 16-config grid search. Reranking was the single biggest lift | Recall@5 0.625 → 0.747 (+19.5%) · 384+ tests | Python · FAISS · LangChain · RAGAS · Cohere |
 | P3 | [**Contrastive Embedding Fine-Tuning**](https://github.com/rubsj/ai-contrastive-embedding-finetuning) | LoRA hit 96.9% of full fine-tune with 0.32% parameters | Spearman -0.22 → +0.85 · AUC-ROC 0.994 | Python · Sentence-Transformers · PEFT/LoRA |
 | P4 | [**AI Resume Coach**](https://github.com/rubsj/ai-resume-coach) | Template choice is statistically significant for scoring | Chi² = 32.74 (p<0.001) · 532 tests · 99% coverage | Python · OpenAI · ChromaDB · FastAPI |
 
@@ -45,21 +45,19 @@ Not API wrappers. Each project solves a real engineering problem with measurable
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Calibrated an LLM Judge That Approved Everything](https://rubyjha.dev/blog/the-36-to-0-pipeline) — My first LLM judge had a 0% failure rate. That meant it was useless.
-- [Building 9 AI Projects (While Working Full-Time)](https://rubyjha.dev/blog/building-9-ai-projects) — The portfolio, the progression, and what I've learned so far.
+- [How I Calibrated an LLM Judge That Approved Everything](https://rubyjha.dev/blog/the-36-to-0-pipeline) – my first LLM judge had a 0% failure rate, which meant it was useless.
+- [Building 9 AI Projects (While Working Full-Time)](https://rubyjha.dev/blog/building-9-ai-projects) – the portfolio, the progression, and what I've learned so far.
 <!-- BLOG-POST-LIST:END -->
 
 👉 [**More on rubyjha.dev/blog →**](https://rubyjha.dev/blog)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
-**AI/ML:** Python · OpenAI · LangChain · CrewAI · FAISS · ChromaDB · Sentence-Transformers · RAGAS · Cohere · Braintrust · PEFT/LoRA
+**Leadership:** People Management · Hiring & Team Building · Performance & Promotions · Executive Communication · Technical Strategy
 
-**Engineering:** Java · TypeScript · Spring Boot · React · FastAPI · Docker · Kubernetes · Azure
-
-**Leadership:** 7+ years people management · Teams up to 12 engineers · US, India, Poland · $250K/mo cost savings delivered
+**Technical:** Python · Java · TypeScript · OpenAI API · LangChain · CrewAI · FastAPI · ChromaDB · Azure · Docker · Kubernetes · React · Spring Boot · Astro
 
 ---
 
