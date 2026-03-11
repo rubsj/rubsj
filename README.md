@@ -2,7 +2,7 @@
 
 **Engineering Manager · Applied AI · Cloud**
 
-I spent two decades leading engineering teams at State Street, Centene, and EY — building products that handle real money, real patient data, and real regulatory scrutiny. The kind of work where downtime means someone's claim doesn't get processed and a bad deployment means financial loss.
+I spent two decades leading engineering teams at State Street, Centene, and EY - building products that handle real money, real patient data, and real regulatory scrutiny. The kind of work where downtime means someone's claim doesn't get processed and a bad deployment means financial loss.
 
 Now I'm applying that same engineering discipline to AI. I'm building **9 production-grade AI systems** covering RAG pipelines, embedding fine-tuning, and multi-agent orchestration — each with evaluation frameworks, architecture decision records, and metrics I'd trust in a code review.
 
