@@ -21,17 +21,18 @@ These aren't API wrappers. Each project solves a real engineering problem with m
 | # | Project | What I Proved | Key Result | Stack |
 |---|---------|--------------|------------|-------|
 | P1 | [**Synthetic Data Pipeline**](https://github.com/rubsj/ai-synthetic-data-generator) | Self-correcting generation with 5-layer validation | 36 failures → 0 · 81.7% inter-rater agreement | Python · Pydantic · OpenAI · Instructor |
-| P2 | [**RAG Evaluation Framework**](https://github.com/rubsj/ai-rag-evaluation-framework) | 16-config grid search. Reranking was the single biggest lift | Recall@5 0.625 → 0.747 (+19.5%) · 384+ tests | Python · FAISS · LangChain · RAGAS · Cohere |
-| P3 | [**Contrastive Embedding Fine-Tuning**](https://github.com/rubsj/ai-contrastive-embedding-finetuning) | LoRA hit 96.9% of full fine-tune with 0.32% parameters | Spearman -0.22 → +0.85 · AUC-ROC 0.994 | Python · Sentence-Transformers · PEFT/LoRA |
+| P2 | [**RAG Evaluation Framework**](https://github.com/rubsj/ai-rag-evaluation-framework) | 16-config grid search. Reranking was the single biggest lift | Recall@5 0.625 → 0.747 (+19.5%) · 557 tests | Python · FAISS · LangChain · RAGAS · Cohere |
+| P3 | [**Contrastive Embedding Fine-Tuning**](https://github.com/rubsj/ai-contrastive-embedding-finetuning) | LoRA hit 96.2% of full fine-tune with 0.32% parameters | Spearman -0.22 → +0.85 · AUC-ROC 0.993 | Python · Sentence-Transformers · PEFT/LoRA |
 | P4 | [**AI Resume Coach**](https://github.com/rubsj/ai-resume-coach) | Template choice is statistically significant for scoring | Chi² = 32.74 (p<0.001) · 532 tests · 99% coverage | Python · OpenAI · ChromaDB · FastAPI |
+| P5 | [**ShopTalk Knowledge Agent**](https://github.com/rubsj/ai-shoptalk-knowledge-agent) | First-principles RAG (no LangChain). Heading-aware chunking dominated 46 configs | NDCG@5 0.896 · Judge 4.77/5.0 · 627 tests | Python · FAISS · LiteLLM · Cohere · Ollama |
 
 ### 🔨 In Progress
 
 | # | Project | What It Does | Stack |
 |---|---------|-------------|-------|
-| P5 | [**ShopTalk Knowledge Agent**](https://github.com/rubsj/ai-shoptalk-knowledge-agent) | Production RAG with configurable chunking, hybrid retrieval, reranking, and LLM-as-Judge eval | Python · FAISS · LiteLLM · Instructor |
+| P6 | [**Digital Writing Clone**](https://github.com/rubsj/ai-digital-clone) | Multi-agent writing style clone with CrewAI | Python · CrewAI · OpenAI · Sentence-Transformers |
 
-**🗓️ Up Next:** Multi-agent systems with CrewAI (P6–P9) covering writing clones, feedback intelligence, Jira automation, and DevOps root-cause analysis. See the [full roadmap](https://github.com/rubsj/ai-portfolio).
+**🗓️ Up Next:** P7–P9 covering feedback intelligence, Jira automation, and DevOps root-cause analysis. See the [full roadmap](https://github.com/rubsj/ai-portfolio).
 
 ---
 
